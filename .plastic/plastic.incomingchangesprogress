@@ -1,0 +1,20 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      4
+    ],
+    "SourceCsetId": 5,
+    "DestinationCsetId": 4,
+    "FileConflicts": [
+      {
+        "Path": "/Assets/Scenes/Login.unity",
+        "ItemId": 1148,
+        "ParentItemId": 1066,
+        "BaseRevId": 2102,
+        "SourceRevId": 2106,
+        "DestinationRevId": 2102
+      }
+    ]
+  }
+]

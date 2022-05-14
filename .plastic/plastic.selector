@@ -1,0 +1,4 @@
+repository "NightLand3@mehmetuyanik@cloud"
+  path "/"
+    br "/main"
+    co "/main"
